@@ -8,12 +8,22 @@
     "src/"
   ],
   "main": "src/RX09.js",
-  "repository": "ferensw/node-rx09",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferensw/node-rx09.git"
+  },
   "engines": {
     "node": ">=4.2.0",
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
     "serialport": "^2.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ferensw/node-rx09/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }

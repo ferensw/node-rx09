@@ -1,6 +1,6 @@
 {
   "name": "rx09",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Interface for the Eldat RX09 USB Interface (RX09).",
   "license": "MIT",
   "homepage": "https://github.com/ferensw/node-rx09",
@@ -17,7 +17,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "serialport": "^2.1.0"
+    "serialport": "^3.1.2"
   },
   "bugs": {
     "url": "https://github.com/ferensw/node-rx09/issues"
